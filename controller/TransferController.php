@@ -1,5 +1,5 @@
 <?php
-require_once('../connection.php');
+require_once('../config/connection.php');
 
 class Transfer {
     private $account_transfer = 'account_transfer';

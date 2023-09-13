@@ -1,5 +1,5 @@
 <?php 
-require_once('../connection.php');
+require_once('../config/connection.php');
 
 class Balance {
     private $account_balance = 'account_balance';
